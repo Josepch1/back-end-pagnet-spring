@@ -4,10 +4,10 @@ Welcome to the **Back-end Pagnet Spring Project**! This project is built using S
 
 ## Table of Contents
 
-- [Introduction](#-introduction)
-- [Features](#-features)
-- [Getting Started](#-getting-started)
-- [Usage](#-usage)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
 
 ## Introduction
 
